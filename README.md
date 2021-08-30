@@ -12,6 +12,6 @@ Ferramentas/Tecnologias utilizadas:
  PASSOS PARA REPRODUÇÃO DO TESTE
  
  -> Criar o banco de dados webjump
- -> Criar as tabelas produto, categoria e produtocategoria
+ -> Criar as tabelas produto, categoria e produtocategoria / utilizar dump na pasta banco
  -> Definir coonfigurações de conexão na camada de Infra em Infra/Connection
  
