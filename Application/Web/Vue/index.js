@@ -31,7 +31,7 @@ var vm = new Vue({
                         vm.get();
                         vm.edit = false;
                         vm.remove = false;
-                        //document.location.reload(true);
+                        document.location.reload(true);
                     });
                 });
 
