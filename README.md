@@ -1,6 +1,6 @@
 # webjump
 
-CRUD PARA TESTE PARA DESENVOLVEDOR BACK-END
+CRUD - TESTE PARA DESENVOLVEDOR BACK-END
 
 Ferramentas/Tecnologias utilizadas:
 
@@ -11,6 +11,7 @@ Ferramentas/Tecnologias utilizadas:
  
  PASSOS PARA REPRODUÇÃO DO TESTE
  
+ -> Alterar para branch desafio
  -> Criar o banco de dados webjump
  -> Criar as tabelas produto, categoria e produtocategoria
  -> Definir coonfigurações de conexão na camada de Infra em Infra/Connection
